@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @muraxxxsrin
 - 👀 I’m interested in developing apps and web applications 
-- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on new language that could improve my coding skills 
 - 📫 How to reach me ... b.muralisridharan@gmail.com
 
